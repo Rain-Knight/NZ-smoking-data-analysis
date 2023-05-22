@@ -1,1 +1,1 @@
-# NZ-smoking-data-analysis
+# NZ Smoking Data Analysis
